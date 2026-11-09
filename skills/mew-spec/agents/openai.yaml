@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mew Spec"
+  short_description: "通过四份递进文档驱动需求澄清、技术设计、开发执行与最终验收"
+  default_prompt: "使用 $mew-spec 将这个开发想法依次整理成可审批的 spec、plan、task 和验收 checklist，再开始实现。"
+
+policy:
+  allow_implicit_invocation: true

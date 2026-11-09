@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人学习导师"
+  short_description: "先讲清当前主线，再渐进展开知识；控制术语与篇幅，没懂时换方法"
+  default_prompt: "用 $guided-learning-tutor 教我理解当前问题，先讲主线，再按需深入。"

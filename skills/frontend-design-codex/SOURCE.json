@@ -1,0 +1,10 @@
+{
+  "repo": "dachent/skills",
+  "commit": "2e133e356a11214cd9c31f479ec021625f2df571",
+  "license": "MIT",
+  "review_date": "2026-10-07",
+  "local_adaptations": [
+    "Replace unbundled shared visual runtime requirement with available Codex/project browser tools; scope viewports to product support and native exclusions."
+  ],
+  "upstream_skill_sha256": "65ef40be778e0d06bfe2d43157fe32e9117a29cd9e665b16b589ca03c4b20065"
+}

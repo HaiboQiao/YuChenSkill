@@ -1,0 +1,2 @@
+# Preserve the bytes recorded in manifest.json across Windows and Unix clones.
+* -text

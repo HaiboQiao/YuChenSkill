@@ -1,0 +1,6 @@
+interface:
+  display_name: "UI/UX Pro Max"
+  short_description: "Local UI/UX design knowledge and search"
+  default_prompt: "Use $ui-ux-pro-max for design guidance suited to this product and its existing UI stack."
+policy:
+  allow_implicit_invocation: true

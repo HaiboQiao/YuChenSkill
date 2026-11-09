@@ -1,0 +1,7 @@
+interface:
+  display_name: "Adaptive UI Workflow"
+  short_description: "Cross-stack UI design, implementation and review"
+  default_prompt: "Use $adaptive-ui-workflow to analyze this project UI, preserve its stack and business behavior, and carry out the requested design or implementation."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,10 @@
+{
+  "repo": "MaxHan7/frontend-ui-standards-skill",
+  "commit": "0609cb07793ee1f8f6626c98042ee2e811f81735",
+  "license": "MIT",
+  "review_date": "2026-10-07",
+  "local_adaptations": [
+    "Add native Qt mapping for the existing framework-agnostic token/component principles."
+  ],
+  "upstream_skill_sha256": "eaf57d57968e678b8eb06f7687b28cc00959801eba5dfbca0b342e88122d8feb"
+}
